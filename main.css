@@ -13,3 +13,27 @@ div {
 #red {
   order-top-color: #f00;
 }
+
+#orange {
+  order-top-color: #ffa500;
+}
+
+#yellow {
+  order-top-color: #ff0;
+}
+
+#green {
+  order-top-color: #06f;
+}
+
+#blue {
+  order-top-color: #f00;
+}
+
+#indigo {
+  order-top-color: #8a2be2;
+}
+
+#violet {
+  order-top-color: #d300c9;
+}
